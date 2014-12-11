@@ -7,5 +7,5 @@ install
 =======
 
 ```bash
-meteor add liyu:meteor-jquery-transition-events
+meteor add liyu:jquery-transition-events
 ```

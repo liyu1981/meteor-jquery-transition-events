@@ -1,0 +1,3 @@
+[submodule "transition-events"]
+	path = transition-events
+	url = https://github.com/ai/transition-events.git
